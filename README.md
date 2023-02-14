@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChouhdryRizwan
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning in Aptech
-- 💞️ I’m looking to collaborate on Block Chain
+- 🌱 I’m currently learning in PIAIC
+- 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me "You can't"
 
 <!---
