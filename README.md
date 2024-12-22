@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chouhdry Rizwan - aka CR</h1>
 <h3 align="center">I'm a Modern Web Developer, Software Architect, AI Enthusiast, and Occasional Trainer!</h3>
 
-<p align="left"> <a href="https://twitter.com/chouhdryrizwan" target="blank"><img src="https://img.shields.io/twitter/follow/chouhdryrizwan?logo=twitter&style=for-the-badge" alt="chouhdryrizwan" /></a> </p>
-
-
-[![](https://visitcount.itsvg.in/api?id=chouhdryrizwan&icon=1&color=6)](https://visitcount.itsvg.in)
----
 - 🔭 I’m currently working on [AI Projects](https://github.com/ChouhdryRizwan)
 
 - 🌱 I’m currently learning **Generative AI, Agentic AI & Blockchain technologies**
@@ -28,6 +23,8 @@
 <a href="https://dribbble.com/chouhdryrizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="chouhdryrizwan" height="30" width="40" /></a>
 <a href="https://www.behance.net/riizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="riizi" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <a href="https://twitter.com/chouhdryrizwan" target="blank"><img src="https://img.shields.io/twitter/follow/chouhdryrizwan?logo=twitter&style=for-the-badge" alt="chouhdryrizwan" /></a> </p>
 
 # 💻 Tech Stack:
 ## Languages
@@ -62,3 +59,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chouhdryrizwan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=chouhdryrizwan&icon=1&color=6)](https://visitcount.itsvg.in)
